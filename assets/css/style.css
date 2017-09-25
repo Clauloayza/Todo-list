@@ -1,0 +1,51 @@
+h1{
+    background: #E0E0E0;
+    border-top: 2px solid #BEBEBE;
+    font-size:20px;
+    font-weight: bold;
+    padding: 10px 0;
+    margin: 0 0 20px 0;
+}
+.tareas{
+    margin: 0 30px;
+}
+.btn{
+    padding-left: 30px;
+}
+.boton{
+    position: relative;
+    margin-bottom: 45px;
+}
+
+.cuadro{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    max-width: 100%;
+    min-width: 100%;
+}
+.iconoMas{
+    position: absolute;
+    left: 10px;
+    top: 9px;
+    color: #fff;
+}
+.agregaTarea{
+    background: #E0E0E0;
+    padding: 10px 7px;
+    position: relative;
+}
+
+li{
+	background: #E0E0E0;
+	list-style: none;
+	padding: 6px;
+	border-radius: 3px;
+	margin-bottom: 5px;
+}
+.lista {
+    border: 2px solid rgba(255, 114, 206, 0.7);
+	padding-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 50px;
+    height: 30px;
+}
